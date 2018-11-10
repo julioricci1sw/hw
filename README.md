@@ -1,2 +1,2 @@
 # hw
-general
+general with modifications for version 1
